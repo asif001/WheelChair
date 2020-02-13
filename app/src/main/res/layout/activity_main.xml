@@ -5,7 +5,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
 
-    <Button
+    <ImageButton
         android:id="@+id/upBtn"
         android:layout_width="101dp"
         android:layout_height="108dp"
@@ -19,7 +19,7 @@
 
 
 
-                <Button
+                <ImageButton
                     android:layout_width="108dp"
                     android:layout_height="101dp"
                     android:id="@+id/leftBtn"
@@ -34,7 +34,7 @@
                     android:layout_marginTop="5dp"/>
 
 
-                <Button
+                <ImageButton
                     android:layout_width="108dp"
                     android:layout_height="101dp"
                     android:id="@+id/rightBtn"
@@ -48,7 +48,7 @@
                     android:layout_marginTop="5dp"/>
 
 
-                <Button
+                <ImageButton
                     android:layout_width="101dp"
                     android:layout_height="108dp"
                     android:id="@+id/downBtn"
@@ -59,7 +59,7 @@
                     android:layout_below="@id/leftBtn"
                     android:layout_centerHorizontal="true"
                     android:layout_marginTop="5dp"/>
-    <Button
+    <ImageButton
         android:layout_width="108dp"
         android:layout_height="108dp"
         android:id="@+id/powerBtn"
